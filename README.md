@@ -3,13 +3,10 @@
 <div align="center">
   <img src="images/logo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 45%;">
   <h3 align="center">README.MD</h3>
-
-  <p align="center">
-    📃 Aquest repositori conté un complet **README.md** que proporciona accés a tota la documentació interactiva associada a la solució **Codis365**. Aquesta documentació inclou guies d'usuari desenvolupades amb 📖 **GitBooks** per facilitar l'ús i la configuració del sistema, així com documentació tècnica de les API generada amb 🔍 **Swagger** i **Redoc** per ajudar els desenvolupadors a integrar-se amb la plataforma.
     <br />
-  </p>
 </div>
 
+📃 Aquest repositori conté un complet **README.md** que proporciona accés a tota la documentació interactiva associada a la solució **Codis365**. Aquesta documentació inclou guies d'usuari desenvolupades amb 📖 **GitBooks** per facilitar l'ús i la configuració del sistema, així com documentació tècnica de les API generada amb 🔍 **Swagger** i **Redoc** per ajudar els desenvolupadors a integrar-se amb la plataforma.
 ---
 
 <!-- TABLE OF CONTENTS -->
@@ -80,7 +77,7 @@ Aquestes eines permeten una navegació senzilla i l'execució directa de proves 
 Els següents vídeos ofereixen explicacions visuals i pràctiques sobre l'ús i les funcionalitats de **Codis365**. Fes clic en qualsevol enllaç per veure els tutorials:
 
 1. **[Com començar amb Codis365](https://www.youtube.com/embed/b-PACIZ37pg)**  
-   Introducció a la plataforma i primeres passes per configurar i utilitzar les funcionalitats bàsiques. 
+   Introducció a la plataforma mitjançant l'accés amb Doble Factor d'Autentificació (2FA) i primeres passes per configurar i utilitzar les funcionalitats bàsiques. 
 
 2. **[Gestió avançada de codis](https://www.youtube.com/embed/RdLaYwqbmlI)**  
    Tutorial pas a pas sobre com gestionar codis personalitzats i crear catàlegs dinàmics.
