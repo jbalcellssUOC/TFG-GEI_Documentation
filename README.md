@@ -30,19 +30,21 @@ Aquest repositori conté únicament un fitxer **README.md** amb enllaços a la d
 ### 📖 Guies d'usuari i Documentació
 Documentació general i guies per als usuaris.
 
-- **URL:** [https://docs.codis365.es](https://docs.codis365.es)
+- **URL:** [https://docs.codis365.cat](https://docs.codis365.cat)
 
 ---
 
 ### 💭 Preguntes Freqüents
 Recull de preguntes més habituals i respostes per facilitar la resolució de dubtes.
 
-- **URL:** [https://faqs.codis365.es](https://faqs.codis365.es)
+- **URL:** [https://faqs.codis365.cat](https://faqs.codis365.es)
 
 ---
 
 ### 🔍 Documentació de l'API
 Documentació interactiva per a desenvolupadors amb detalls de les API.
+
+- **URL:** [https://apidocs.codis365.cat](https://apidocs.codis365.es)
 
 - **Documentació Redoc:** [https://api.codis365.cat/apidocs-redoc/index.html](https://api.codis365.cat/apidocs-redoc/index.html)
 - **Documentació Swagger:** [https://api.codis365.cat/apidocs-swagger/index.html](https://api.codis365.cat/apidocs-swagger/index.html)
