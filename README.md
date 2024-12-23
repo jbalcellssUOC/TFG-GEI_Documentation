@@ -6,7 +6,11 @@
     <br />
 </div>
 
-📃 Aquest repositori conté un complet **README.md** que proporciona accés a tota la documentació interactiva associada a la solució **Codis365**. Aquesta documentació inclou guies d'usuari desenvolupades amb 📖 **GitBooks** per facilitar l'ús i la configuració del sistema, així com documentació tècnica de les API generada amb 🔍 **Swagger** i **Redoc** per ajudar els desenvolupadors a integrar-se amb la plataforma.
+<p align="center">
+  📃 Aquest repositori conté un complet <strong>README.md</strong> que proporciona accés a tota la documentació interactiva associada a la solució <strong>Codis365</strong>. Aquesta documentació inclou guies d'usuari desenvolupades amb 📖 <strong>GitBooks</strong> per facilitar l'ús i la configuració del sistema, així com documentació tècnica de les API generada amb 🔍 <strong>Swagger</strong> i <strong>Redoc</strong> per ajudar els desenvolupadors a integrar-se amb la plataforma.
+  <br />
+</p>
+
 ---
 
 <!-- TABLE OF CONTENTS -->
