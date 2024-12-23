@@ -37,14 +37,14 @@ Documentació general i guies per als usuaris.
 ### 💭 Preguntes Freqüents
 Recull de preguntes més habituals i respostes per facilitar la resolució de dubtes.
 
-- **URL:** [https://faqs.codis365.cat](https://faqs.codis365.es)
+- **URL:** [https://faqs.codis365.cat](https://faqs.codis365.cat)
 
 ---
 
 ### 🔍 Documentació de l'API
 Documentació interactiva per a desenvolupadors amb detalls de les API.
 
-- **URL:** [https://apidocs.codis365.cat](https://apidocs.codis365.es)
+- **URL:** [https://apidocs.codis365.cat](https://apidocs.codis365.cat)
 
 - **Documentació Redoc:** [https://api.codis365.cat/apidocs-redoc/index.html](https://api.codis365.cat/apidocs-redoc/index.html)
 - **Documentació Swagger:** [https://api.codis365.cat/apidocs-swagger/index.html](https://api.codis365.cat/apidocs-swagger/index.html)
