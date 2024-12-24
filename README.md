@@ -68,8 +68,7 @@ Documentació tècnica per als desenvolupadors, que proporciona informació deta
 
 - **URL:** <a href="https://apidocs.codis365.cat" target="_blank" rel="noopener noreferrer">https://apidocs.codis365.cat</a>
 
-- **Documentació Redoc:** <a href="https://api.codis365.cat/apidocs-redoc/index.html" target="_blank" rel="noopener noreferrer">https://api.codis365.cat/apidocs-redoc/index.html</a>
-- **Documentació Swagger:** <a href="https://api.codis365.cat/apidocs-swagger/index.html" target="_blank" rel="noopener noreferrer">https://api.codis365.cat/apidocs-swagger/index.html</a>
+- **Documentació Swagger-Redoc:** <a href="https://api.codis365.cat/apidocs-redoc/index.html" target="_blank" rel="noopener noreferrer">https://api.codis365.cat/apidocs-redoc/index.html</a>
 
 Aquestes eines permeten una navegació senzilla i l'execució directa de proves sobre els endpoints de l'API.
 
